@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "./src/**/*", 
+        ".env"
+    ],
+    "ext": "ts",
+    "exec": "node_modules/.bin/ts-node ./src/index.ts"    
+}
